@@ -2,7 +2,7 @@
 
 I'm a senior full-stack engineer located in the Washington, D.C. area.
 
-I use this space for learning mostly, I've also been curious to try new languages and frameworks and, in most cases, those experiments will end up here.  Here are some of my favorite projects:
+I use this space for learning mostly, I've always been curious to try new languages and frameworks - those experiments usually end up here.  Here are some of my favorite projects:
 
 #### 🍺 The Drink List / Rate that Drink 
 I'm a big craft beer fan and I think it's fun to rate different beers a write about my preferences.  There are a ton of platforms out there that do this, but I wanted something that I could tweak as needed.  This project helped my explore the Clojure(Script) ecosystem so I ended up writing and re-writing it several times with both a full-stack and frontend only version.
