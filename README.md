@@ -13,7 +13,7 @@ I'm a big craft beer fan and I think it's fun to rate different beers a write ab
   
 #### 👶 [baby-log](https://github.com/chicovg/baby-log)
 
-When my partner and I had our first child, we were concerned about sticking to the feeding and diaper schedule, so I build a simple React app to help us keep track.  It turned out to be just a valuable tool for us.
+When my partner and I had our first child, we were concerned about sticking to the feeding and diaper schedule, so I build a simple React app to help us keep track.  It turned out to be a valuable tool for us.
 
 Built with: JavaScript, [React](https://react.dev/), [Semantic UI React](https://react.semantic-ui.com/)
 
